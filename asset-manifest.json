@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shubh-stack-creator/Furniture.git/static/css/main.068517a5.css",
+    "main.js": "/shubh-stack-creator/Furniture.git/static/js/main.11cd2278.js",
+    "static/js/787.ed8846a2.chunk.js": "/shubh-stack-creator/Furniture.git/static/js/787.ed8846a2.chunk.js",
+    "index.html": "/shubh-stack-creator/Furniture.git/index.html",
+    "main.068517a5.css.map": "/shubh-stack-creator/Furniture.git/static/css/main.068517a5.css.map",
+    "main.11cd2278.js.map": "/shubh-stack-creator/Furniture.git/static/js/main.11cd2278.js.map",
+    "787.ed8846a2.chunk.js.map": "/shubh-stack-creator/Furniture.git/static/js/787.ed8846a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068517a5.css",
+    "static/js/main.11cd2278.js"
+  ]
+}
